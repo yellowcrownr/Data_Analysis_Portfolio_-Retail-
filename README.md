@@ -35,4 +35,4 @@ Key features:
 
  - Script 1 -
 This script is used to extract, tranform and load the principal table for sales (extracted from Microsoft SQL Server)
-![Script 1](Scripts/Script 1 (addapted).R)
+![Script 1](Scripts/Script-1-(addapted).R)
