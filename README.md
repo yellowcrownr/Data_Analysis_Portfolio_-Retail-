@@ -1,6 +1,4 @@
-# Data_Analysis_Portfolio_-Retail-
-
-Sales Performance Dashboard for Retail
+# Sales Performance Dashboard for Retail
 
 This project showcases the development of a comprehensive sales reporting system designed for real-time and historical analysis in a retail environment. The system includes interactive dashboards built with Power BI to provide insights into daily and monthly sales performance, enabling data-driven decision-making for store management and strategic planning.
 
