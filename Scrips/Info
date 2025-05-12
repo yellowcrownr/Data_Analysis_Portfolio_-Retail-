@@ -1,0 +1,5 @@
+This directory includes the scripts developed for the sales data analysis project. It contains:
+
+Scripts for data extraction, transformation, and loading (ETL).
+SQL scripts for querying and manipulating data.
+Python scripts for data cleaning and preprocessing.
