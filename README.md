@@ -9,7 +9,7 @@ Project Scope
 "Facilitate identification of top-performing products and stores."
 "Support informed decision-making regarding inventory management and sales strategies."
 
- - Daily-Sales-Performance-Dashboard -
+Daily-Sales-Performance-Dashboard
 This dashboard provides a real-time overview of daily sales performance
 ![Daily-Sales-Performance-Dashboard](Documents/Daily-Sales-Performance-Dashboard.pdf)
 
@@ -20,7 +20,7 @@ Key features:
 * Presents a map visualization of store locations and sales distribution.
 * Includes a table with detailed sales data per store.
 
-- Monthly Sales Analysis -
+Monthly Sales Analysis
 
  - Monthly-Sales-Performance-Dashboard -
 This dashboard enables in-depth analysis of monthly sales trends.
