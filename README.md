@@ -22,7 +22,7 @@ Key features:
 
 Monthly Sales Analysis
 
- - Monthly-Sales-Performance-Dashboard -
+Monthly-Sales-Performance-Dashboard
 This dashboard enables in-depth analysis of monthly sales trends.
 ![Monthly-Sales-Performance-Dashboard](Documents/Monthly-Sales-Performance-Dashboard.pd)
 
@@ -32,8 +32,8 @@ Key features:
 * Visualizes daily sales and unit performance over the month.
 * Allows interactive exploration of sales by category for individual stores.
 * Presents a table with detailed monthly sales data per store.
-* 
- - Script 1 -
+
+Script 1
 This script is used to extract, tranform and load the principal table for sales (extracted from Microsoft SQL Server)
 ![Script 1](Scripts/Script-1-(addapted).R)
 
