@@ -24,7 +24,7 @@ Key features:
 
  - Monthly-Sales-Performance-Dashboard -
 This dashboard enables in-depth analysis of monthly sales trends.
-https://github.com/yellowcrownr/Sales-Performance-Dashboard-for-Retail/blob/eddf4fdeec167c45c97c2b3adb29be8bb55f2f51/Scripts/Script%201%20(addapted).R
+![Monthly-Sales-Performance-Dashboard](Documents/Monthly-Sales-Performance-Dashboard.pd)
 
 Key features:
 
