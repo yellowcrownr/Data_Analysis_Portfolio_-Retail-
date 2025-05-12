@@ -1,5 +1,7 @@
 # Sales Performance Dashboard for Retail
 
+Disclaimer: Please note that all data presented in this project is based on a real-world company environment. However, the information has been modified to ensure confidentiality.
+
 This project showcases the development of a comprehensive sales reporting system designed for real-time and historical analysis in a retail environment. The system includes interactive dashboards built with Power BI to provide insights into daily and monthly sales performance, enabling data-driven decision-making for store management and strategic planning.
 
 Project Scope
